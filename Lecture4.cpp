@@ -16,4 +16,6 @@ int main()
     cout<<(c>d)<<endl;
     cout<<(a>b && c>d)<<endl;
     cout<<(a<b || c<d)<<endl;
+
+    return 0;
 }
