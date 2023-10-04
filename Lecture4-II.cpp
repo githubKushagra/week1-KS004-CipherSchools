@@ -75,5 +75,30 @@ int main()
     {
         cout << "huhu" << endl;
     }
+
+
+
+// another concept.
+
+    // switch cases
+    int n;
+    cout << "Enter the value of n: ";
+    cin >> n;
+    switch (n)
+    {
+    case 1:
+        cout << "The value of n is 1";
+        break;
+    case 2:
+        cout << "The value of n is 2";
+        break;
+    case 3:
+        cout << "The value of n is 3";
+        break;
+    default:
+        cout << "The value of n can be less than 1 or more than 3";
+        break;
+    }
+    
     return 0;
 }
