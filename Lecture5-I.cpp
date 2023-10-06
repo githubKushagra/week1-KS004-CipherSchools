@@ -25,7 +25,7 @@ int main(){
     arr[1] = 2;
     arr[2] = 3;
     arr[3] = 4;
-    cout<<"The integers are: "<<arr[0]<<arr[1]<<arr[2]<<arr[3]<<endl;
+    cout<<"The integers are: "<<arr[0]<<arr[1]<<arr[2]<<arr[3]<<endl;    // we can also print it using for loop.
 
 
     return 0;
